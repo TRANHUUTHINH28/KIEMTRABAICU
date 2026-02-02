@@ -1,0 +1,8 @@
+{
+  "name": "MagnoSpin - Trò Chơi Khởi Động Vật Lý",
+  "description": "Ứng dụng vòng quay may mắn chủ đề Từ trường & Nam châm dành cho HS Gen Z, tích hợp câu hỏi từ Google Sheets và hiệu ứng quay bóng sinh động.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
